@@ -1,0 +1,19 @@
+.button {
+  display: 'inline-flex';
+  align-items: 'center';
+  justify-content: 'center';
+  min-width: 88px;
+  height: 36px;
+  padding: '0px 16px';
+  outline: 'none';
+  border: 10px;
+  border-radius: 2px;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.primary {
+  background-color: tomato;
+  color: #ffffff;
+}
